@@ -1,0 +1,244 @@
+{
+	"text_intent" : [
+		{
+			"text": "I need to set up a meeting with John about Design Review at 10 am today for an hour",
+			"intent": "schedule meeting"
+		},
+		{
+			"text": "schedule a Deployment Issue meeting with Ben tomorrow at 1:30 pm",
+			"intent": "schedule meeting"
+		},
+		{
+			"text": "set up a meeting with amy and tom at noon",
+			"intent": "schedule meeting"
+		},
+		{
+			"text": "I want to meet ben tomorrow morning",
+			"intent": "schedule meeting"
+		},
+		{
+			"text": "please schedule a meeting for an hour at today's noon",
+			"intent": "schedule meeting"
+		},
+		{
+			"text": "create a new meeting schedule with John on November 25 at 1:30 pm",
+			"intent": "schedule meeting"
+		},
+		{
+			"text": "schedule a 30 minutes meeting with amy today",
+			"intent": "schedule meeting"
+		},
+        {
+			"text": "please make a meeting schedule at 1:30pm",
+			"intent": "schedule meeting"
+		},
+        {
+			"text": "arrange a meeting schedule with Tom this week",
+			"intent": "schedule meeting"
+		},
+        {
+			"text": "I would like to have a meeting about Design Review today",
+			"intent": "schedule meeting"
+		},
+		{
+			"text": "cancel my meeting tomorrow morning",
+			"intent": "cancel meeting"
+		},
+		{
+			"text": "i want to delete my meeting with bob",
+			"intent": "cancel meeting"
+		},
+		{
+			"text": "clear my tomorrow's schedule",
+			"intent": "cancel meeting"
+		},
+		{
+			"text": "please remove my meeting at 10 am",
+			"intent": "cancel meeting"
+		},
+		{
+			"text": "cancel today's design review meeting",
+			"intent": "cancel meeting"
+		},
+		{
+			"text": "please make my schedule empty on monday",
+			"intent": "cancel meeting"
+		},
+		{
+			"text": "cancel deployment issue meeting this week",
+			"intent": "cancel meeting"
+		},
+        {
+			"text": "please cancel all of my meetings today",
+			"intent": "cancel meeting"
+		},
+		{
+			"text": "remove my meeting about Design Review",
+			"intent": "cancel meeting"
+		},
+		{
+			"text": "I want to cancel my meeting tomorrow",
+			"intent": "cancel meeting"
+		},
+		{
+			"text": "move my meeting with John to 10 am tomorrow",
+			"intent": "change schedule"
+		},
+		{
+			"text": "reschedule my meeting today with amy to tomorrow morning",
+			"intent": "change schedule"
+		},
+		{
+			"text": "please reschedule design review meeting to monday at 10 am",
+			"intent": "change schedule"
+		},
+		{
+			"text": "please postpone my meeting with amy to November 25 at 10 am",
+			"intent": "change schedule"
+		},
+		{
+			"text": "push forward a meeting with bob by an hour",
+			"intent": "change schedule"
+		},
+		{
+			"text": "push back today's meeting by half an hour",
+			"intent": "change schedule"
+		},
+		{
+			"text": "I want to delay my next meeting by an hour",
+			"intent": "change schedule"
+		},
+        {
+			"text": "please push forward all of my meeting today by an hour",
+			"intent": "change schedule"
+		},
+		{
+			"text": "I would like to delay tomorrow's meeting with amy by half an hour",
+			"intent": "change schedule"
+		},
+		{
+			"text": "delay my next meeting by one hour",
+			"intent": "change schedule"
+		},
+		{
+			"text": "show when ben is available today",
+			"intent": "check availability"
+		},	
+		{
+			"text": "is john available tomorrow morning?",
+			"intent": "check availability"
+		},
+		{
+			"text": "please find a free time for John and I this week",
+			"intent": "check availability"
+		},
+		{
+			"text": "check my availability today",
+			"intent": "check availability"
+		},
+		{
+			"text": "do I have a free time tomorrow morning?",
+			"intent": "check availability"
+		},
+		{
+			"text": "am I available on November 25 at 10 am?",
+			"intent": "check availability"
+		},
+		{
+			"text": "check my meeting schedule today",
+			"intent": "check availability"
+		},
+        {
+			"text": "is amy free tomorrow morning?",
+			"intent": "check availability"
+		},
+		{
+			"text": "is bob available on November 25 at morning?",
+			"intent": "check availability"
+		},
+		{
+			"text": "plese check my schedule today",
+			"intent": "check availability"
+		},
+		{
+			"text": "okay!",
+			"intent": "confirm yes"
+		},
+		{
+			"text": "sure",
+			"intent": "confirm yes"
+		},
+		{
+			"text": "please proceed",
+			"intent": "confirm yes"
+		},
+		{
+			"text": "yes!",
+			"intent": "confirm yes"
+		},
+		{
+			"text": "that's fine",
+			"intent": "confirm yes"
+		},
+		{
+			"text": "that's correct",
+			"intent": "confirm yes"
+		},
+		{
+			"text": "of course",
+			"intent": "confirm yes"
+		},
+        {
+			"text": "that's great",
+			"intent": "confirm yes"
+		},
+		{
+			"text": "I am okay with that",
+			"intent": "confirm yes"
+		},
+		{
+			"text": "yes, please proceed",
+			"intent": "confirm yes"
+		},
+		{
+			"text": "please cancel",
+			"intent": "confirm no"
+		},
+		{
+			"text": "no",
+			"intent": "confirm no"
+		},
+		{
+			"text": "don't do it",
+			"intent": "confirm no"
+		},
+		{
+			"text": "not correct",
+			"intent": "confirm no"
+		},
+		{
+			"text": "not fine",
+			"intent": "confirm no"
+		},
+		{
+			"text": "don't proceed",
+			"intent": "confirm no"
+		},
+		{
+			"text": "not okay",
+			"intent": "confirm no"
+		},
+        {
+			"text": "I don't want to do that",
+			"intent": "confirm no"
+		},
+		{
+			"text": "no really",
+			"intent": "confirm no"
+		},
+		{
+			"text": "I can't",
+			"intent": "confirm no"
+		}
+	]
+}
