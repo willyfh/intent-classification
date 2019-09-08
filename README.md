@@ -1,2 +1,2 @@
-# Intent Classification
+# Text Intent Classification
 
